@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.header-left img {
+    width: 50px;
+    margin-left: 20px;
+}
+
+body {
+    background-color: #D1E9F6;
+}
+
+.header-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-left p {
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.header-right a {
+    text-decoration: none;
+    color: #0079FF;
+    font-size: 20px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+
+}
+
+.header-right button {
+    border: none;
+    padding: 8px 12px 8px 12px;
+    border-radius: 10px;
+    color: white;
+    background-color: #0079FF;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.nama-instagram p {}
